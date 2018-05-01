@@ -1,4 +1,4 @@
-baseURL = "http://kenardapara.com"
+baseURL = "https://kenardapara.github.io"
 languageCode = "en"
 title = "Kenarda Para"
 theme = "hugo-nuo"
