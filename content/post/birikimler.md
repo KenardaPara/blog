@@ -1,7 +1,7 @@
 ---
 title: "Tasarruf yapmanın zorluğu"
 date: 2018-05-05T16:09:17+02:00
-draft: true
+draft: false
 ---
 
 Bugün en çok karşılaştğım banka reklamı olarak aklıma gelen ilk şey, tek SMS'le kullanılabilen krediler.

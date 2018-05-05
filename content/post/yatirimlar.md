@@ -1,7 +1,7 @@
 ---
 title: "Yatirimlar"
 date: 2018-05-05T21:56:52+02:00
-draft: true
+draft: false
 ---
 
 Tasarruflardan bahsettik ve sadece tasarruf yapmanın yeterli olmadığını söyledik. Çünkü enflasyon denilen şey yaptığımız tasarrufları eritip gidiyor. Enflasyon'un tanımını burada yapmayayım. İşin özü merkezi otoritenin cebimizdeki paradan tırtıklaması. Tarih bize öğrettiki enflasyonun tersi olan deflasyon da enflasyon kadar kötü olabiliyor. Bu yüzden cüzzi miktarda bir enlfasyon stabil bir ekonomi için iyi bir şey olabilir.
