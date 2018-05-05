@@ -1,4 +1,4 @@
-baseURL = "https://kenardapara.github.io"
+baseURL = "http://localhost:1313"
 languageCode = "en"
 title = "Kenarda Para"
 theme = "hugo-nuo"
@@ -23,23 +23,23 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   url = "/"
 
 [[menu.main]]
-  name = "Tags"
+  name = "Etiketler"
   weight = 30
   identifier = "tags"
   url = "/tags/"
 
 # Add your own params here
 [params]
-  author = "Varyemez Amca"
-  avatar = "/img/varyemez.png"
+  author = "VaryemezAmca"
+  avatar = "/img/favicon-1024.png"
   seotitle = "Kenarda Para, bireysel emeklilik ve tasarruflar üzerine bir blog"
-  subtitle = "Ne olur ne olmaz"
+  subtitle = "gelecegi dusunenler"
   description = "Kenarda param olsum nolur nolmaz diyip de parasının erimesini istemeyenler için yazılar"
   paginate = 10
 
   # Choose your social networks
   email = "info@kenardapara.com"
-  github = "VaryemezAmca"
+  github = "KenardaPara"
   twitter = "kenardapara"
   # linkedin = "linkedin_username"
   # weibo = "weibo_username"
@@ -50,7 +50,7 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   # youtube = "youtube_username"
 
   # Google Webmaster
-  # https://www.google.com/webmasters/
+  # https://www.google.com/webmasters/>
 #  googleSiteVerification = "_moDmnnBNVLBN1rzNxyGUGdPHE20YgbmrtzLIbxaWFc"
 
   # Bing Webmaster
