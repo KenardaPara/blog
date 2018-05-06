@@ -14,7 +14,7 @@ Peki yatırımdan beklentimiz nedir. En az enflasyon kadar bir kazanç. Enflasyo
 
 İlk örneğimiz bu yazıda ele aldığımız tasarrufumuz ve enlasyon ilişkisi olsun. Bu yazının bağlamında yatırım yapmamayı tasarrufumuzu nakit olarak elimizde tutmak olarak değerlendirelim. İleride tekrar bahsederiz ancak, TL nizi Dolar ya da Euro olarak tutmak bir yatırım olmuyor. Sadece TL karşısında bir enflasyon koruma aracı alıyor. Dolar olarak tutarsanız ABD enflasyonu cebinizden tırtıklarken , EURO durumunda ise AB bu işi yapıyor
 
-Şimdi [Portfolio Visualizer](https://www.portfoliovisualizer.com) kullanarak 2008 Ocakında elimizde 1000$ olsa ve bu tarihten beri her ay kenara 100$ koysak bugün elimizde kaç ABD Doları nasıl bir alım gücünde olurdu ona bakalım.
+Şimdi [Portfolio Visualizer](https://www.portfoliovisualizer.com) kullanarak 2008 Ocakında elimizde 1000 Dolar olsa ve bu tarihten beri her ay kenara 100 Dolar koysak bugün elimizde kaç ABD Doları nasıl bir alım gücünde olurdu ona bakalım.
 
 Bunun için [Backtest Portfolio](https://www.portfoliovisualizer.com/backtest-portfolio) kısmına giriyoruz ve şu şekilde formu dolduruyoruz
 ![veriler](/img/yatirimlar/pv1.png)
