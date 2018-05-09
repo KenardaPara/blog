@@ -20,4 +20,6 @@ Türkiye'de çılgın bir erken emeklilik dönemi başlıyor. Baba'nın planıys
 İşte bu ve bunun gibi bir çok siyasi malzemeyle , buugün 2 çalışan 1 emekliyi finanse eder hale ediyor. Dünya genelinde beklenen oran 4 e 1. Beklentinin 2 katı kötü durumdayız. Bu yüzden emeklilierin maaşları düşük; çalışandan ve işeverenden kesilen SGK primler yüksek ve emeklilik yaşı bugun 65 e kadar çıkmış durumda.
 Tarihsel veriler reel olarak emeklilik maaşlarının düşme yönünde olduğunu gösteriyor[citation needed]
 
-Bu kadar bozuk bir sistemden emekli olmaya güvenemiyorum. Emeklilik için kendi birikimlerime kendim karar vermek istiyorum. Çünkü emeklilik uzun vadeli bir yatırımdır ve uzun vadeli yatırımlar istikrar ve disiplin gerektirir. Türkiye siyasi tarihi bizde bunun tam tersinin olduğunu gösteriyor. *Bireysel Emeklilik Sistemi* bu amaç için ulaşması en kolay yatırım yöntemi. En kolay olması çok iyi olduğu anlamına gelmiyor. Bir sonraki yazıda, Bireysel Emeklilik Sistemi nin kötü yönlerinden bahsedeceğim
+Bu kadar bozuk bir sistemden emekli olmaya güvenemiyorum. Emeklilik için kendi birikimlerime kendim karar vermek istiyorum. Çünkü emeklilik uzun vadeli bir yatırımdır ve uzun vadeli yatırımlar istikrar ve disiplin gerektirir. Türkiye siyasi tarihi bizde bunun tam tersinin olduğunu gösteriyor. *Bireysel Emeklilik Sistemi* bu amaç için ulaşması en kolay yatırım yöntemi. En kolay olması çok iyi olduğu anlamına gelmiyor.
+
+Bir sonraki yazıda, Bireysel Emeklilik Sistemi nin eleştirisini yapacağız
