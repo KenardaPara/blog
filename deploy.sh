@@ -10,7 +10,7 @@ cd public
 
 git config user.name "VaryemezAmca"
 git config user.email "coder@kenardapara.com"
-
+ git config commit.gpgsign false
 
 # Add changes to git.
 git add .
