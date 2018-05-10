@@ -1,7 +1,7 @@
 ---
 title: "Emeklilik Sistemleri"
 date: 2018-05-07T07:55:41+02:00
-draft: true
+draft: false
 ---
 
 

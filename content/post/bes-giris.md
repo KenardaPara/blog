@@ -1,7 +1,7 @@
 ---
 title: "Bireysel Emeklilik Sistemleri"
 date: 2018-05-08T22:27:01+02:00
-draft: true
+draft: false
 ---
 
 Haftanın en az 5 günü işe gidiyoruz. Peki bu kaç yaşına kadar böyle devam edecek ? Eğer sigortanız yakın zamanda başladıysa, ortalama 60-65 yaşına kadar çalışmanız beklenmekte. Sonrasında devlet size  `Emekli Maaşı` nı garanti ediyor. Peki 60-65 yaşına kadar şimdiki işinizi yapmak ya da İstanbul'da yaşamak gerçekçi mi ? Benim için değil. Bu sebeple KenardaPara tutmaya ve yatırım yapmaya başladım.
