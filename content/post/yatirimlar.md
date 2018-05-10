@@ -40,5 +40,6 @@ Albert Einstein
 > Baran(14)
 
 Yani ne kadar erken tasarruf ve yatırım yapmaya başlarsak o kadar çok `Bileşik Faiz` den yararlanabiliriz.
+KenardaPara nın ne olduğunu ve nasıl değerlendirebilceğini tartıştık.
 
-KenardaPara nın ne olduğunu ve nasıl değerlendirebilceğini tartıştık. Gelecek yazıda en **kolay** yatırım yöntemini olan **Bireysel Emeklilik Sistemi**'nden bahsedeceğiz.
+[Gelecek yazı ülkemizin emeklilik sistemi üzerine]({{< ref "post/emeklilik-sistemleri.md" >}})

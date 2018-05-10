@@ -18,5 +18,4 @@ Her gün işe gidiyoruz ve bunun karşılığında bir ücret alıyoruz. Bundan 
 
 KenardaPara tutamamanızın birçok nedeni var. Beklenmedik giderler, yüksek yaşam maliyetleri, düşük ücretler, harcama alışkanlıkları gibi. Bunların bazılarıyla başa çıkmak kolay, bazılarıyla Türkiye şartlarında çok zor.
 
-Özetle tasarruf oldukça önemli. Eskiler de bunu kavramış ki bununla ilgili çok atasözümüz var. Yine de tasarruf yapmak ne yazık ki yeterli değil. Çünkü enflasyon denilen bir gerçeklik var ve bu da kenarda tuttuğumuz paranın bazen yavaş bazen hızlı şekilde erimesine neden olmakta. Bununla baş edebilmek için lazım olan diğer aracımız ise [diğer yazıda değineceğim **yatırım**]
-({{< ref "post/yatirimlar.md" >}})
+Özetle tasarruf oldukça önemli. Eskiler de bunu kavramış ki bununla ilgili çok atasözümüz var. Yine de tasarruf yapmak ne yazık ki yeterli değil. Çünkü enflasyon denilen bir gerçeklik var ve bu da kenarda tuttuğumuz paranın bazen yavaş bazen hızlı şekilde erimesine neden olmakta. Bununla baş edebilmek için lazım olan diğer aracımız ise [diğer yazıda değineceğim **yatırım**]({{< ref "post/yatirimlar.md" >}})
