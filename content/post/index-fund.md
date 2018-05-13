@@ -4,11 +4,11 @@ date: 2018-05-13T16:55:21+02:00
 draft: true
 ---
 
-Finans hakkında bir blog yazıp da Warren Buffett'dan bahsetmemek olmaz. Bizim konumuz ise Buffet'ın geçen senin sonunda kazandığını 1 Milyon Dolarlık bir iddia. İddianın konusu ise şuydu
+Finans hakkında bir blog yazıp da Warren Buffett'dan bahsetmemek olmaz. Bizim konumuzsa Buffet'ın geçen 2017'de kazandığı 1 Milyon Dolarlık bir iddia. İddianın konusu ise şuydu
 
 > 10 sene içinde herhangi bir düşük maliyetli Index Fonu , Protégé Partners şirketinin yönettiği yüksek riskli yatırım fonlarının ortalamasından daha iyi performans gösterecektir.
 
-Buffet'ın dediği gibi Index fonu bunu başardı ve de oldukça iyi performans gösterdi. Buffet 1 Milyon doları kazandı ve bir yardım kuruluşuna bağışladı. İddiann detaylarını ve analizini [buradan](http://ritholtz.com/2017/05/interesting-thing-buffett-seides-bet/) okuyabilirsiniz.
+Buffet'ın dediği gibi Endeks fonu bunu başardı ve de oldukça iyi performans gösterdi. Buffet 1 Milyon doları kazandı ve bir yardım kuruluşuna bağışladı. İddiann detaylarını ve analizini [buradan](http://ritholtz.com/2017/05/interesting-thing-buffett-seides-bet/) okuyabilirsiniz.
 
 Biz konumuza dönelim ve nedir bu Endeks fonları onu anlayalım. En basitinden Endeks nedir onu çözelim. Türkiye'de bizim en çok duyduğumuz endeks `BIST100` yani haberlerde sıkça duyduğumuz borsa bu kadar yükseldi, şu kadar düştü dediğimiz gösterge.
 `BIST100` ya da `BIST30` dediğimiz endeksler borsanın bir temsili. Borsa'da irili ufaklı işlem gören yüzelrce şirket var. Borsa İstanbul'un durumunu anlamak için tüm bu şirketlerin hisslerini değerlendirmek zor. Kimisi gün içinde o kadar çok alınıp satılmıyor ya da işlemleri gözetim altında. Bu yüzden en çok işlem gören/en yüksek hacimli 100 tane hisse ağırlıklı olarak belirlenmiş. Bu hisselerin gün içindeki ağırlıklı ortalamaları Borsa'nın o günkü durumunu temsil ediyor. İşte buna BİST100(XU100) ya da BİST100 endeksi deniyor.
@@ -33,7 +33,7 @@ choice should be Jack Bogle
 
 > Eğer Amerikalı yatırımcılara en çok fayda sağlamış birinin heykeli dikilecekse bu şüphesiz Jack Bogle olmalıdır.
 
-Peki heykeli dikilecek bu adam -Jack Bogle- kim? Kendisi ABD'de halka açık ilk endeks fonunu kuran adam. Kurduğu şirket Vanguard bugün en büyük yatırım fonlarından. Kurulduğunda çeşitli finans otoriteleri tarafından "Kim uzun vadede ortalama getiri elde etmek ister ki" şeklinde eleştirilmiş. Ancak Vanguard 1980'den beri o kadar başarılı olmuş ki, bu eleştiriyi yapanların bile endeks fon kurmasına sebep olmuş. Vanguard'ın başarılı olmasının en büyük nedenlerinden biri düşük fon maliyetleri. Vanguard fonlarının ortalama maliyetleri %0.11. Bu uzun vadede çok az kesintiye neden olduğu için çok yüksek getiriye olanak sağlıyor
+Peki heykeli dikilecek bu adam -Jack Bogle- kim? Kendisi ABD'de halka açık ilk endeks fonunu kuran adam. Kurduğu şirket Vanguard, bugün en büyük yatırım fonlarından. Kurulduğunda çeşitli finans otoriteleri tarafından "Kim uzun vadede ortalama getiri elde etmek ister ki" şeklinde eleştirilmiş. Ancak Vanguard 1980'den beri o kadar başarılı olmuş ki, bu eleştiriyi yapanların bile endeks fon kurmasına sebep olmuş. Vanguard'ın başarılı olmasının en büyük nedenlerinden biri düşük fon maliyetleri. Vanguard fonlarının ortalama maliyetleri %0.11. Bu uzun vadede çok az kesintiye neden olduğu için çok yüksek getiriye olanak sağlıyor
 
 Peki bu endeks fonlara kimler yatırım yapıyor? Uzun vadeli yatırımcılar. Yani ABD'deki emeklilik adayları. Peki bizde var mı bu fonlar ? Eğer BES fonlarının **FİGK** lerine bakarsanız kesinlikle yok. Bizim fonların ortalama maliyeti %1.4 civarı. Yani Vanguard ve diğer piyasa endeks fonlarının neredeyse 10 katı.
 
