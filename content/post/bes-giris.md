@@ -2,6 +2,7 @@
 title: "Bireysel Emeklilik Sistemleri"
 date: 2018-05-08T22:27:01+02:00
 draft: false
+slug: "bireysel-emeklilik-sistemlerine-giris"
 ---
 
 Haftanın en az 5 günü işe gidiyoruz. Peki bu kaç yaşına kadar böyle devam edecek ? Eğer sigortanız yakın zamanda başladıysa, ortalama 60-65 yaşına kadar çalışmanız beklenmekte. Sonrasında devlet size  `Emekli Maaşı` nı garanti ediyor. Peki 60-65 yaşına kadar şimdiki işinizi yapmak ya da İstanbul'da yaşamak gerçekçi mi ? Benim için değil. Bu sebeple KenardaPara tutmaya ve yatırım yapmaya başladım.
@@ -25,4 +26,4 @@ Yatırım aracı olduğu için herhangi bir getiri garantisinden bahsedemeyiz. A
 
 2017 yılında devlet BES e otomatik katılımı getirdi. Bana kalırsa uzun vadede bunun dolaylı bir etkisi olacak. Emeklilik maaşları reel olarak düşecek. Yani devlet emeklilere enflasyonla birlikte zam yapmayacak ve bunun yerine arada ikramiye gibi şeylere gidecek. Ne zaman ki biz emeklilik maaşlarının enflasyondan arındırılmış değerlerinin çok düştüğünü fark edeceğiz, o zaman da 'Eee Bireysel Emekliliğin yok mu? Çıkmasaydın sistemden' denilecek. O zaman da çok geç kalınmış olacak.
 
-Bir sonraki yazıda, Bireysel Emeklilik Sistemi nin eleştirisini yapacağız
+[Bir sonraki yazıda, Bireysel Emeklilik Sistemi nin eleştirisini yapacağız](({{< ref "post/bes-giris.md" >}}))
