@@ -1,7 +1,7 @@
 ---
 title: "Bireysel Emeklilik Sistemlerinin Sorunlari"
 date: 2018-05-12T13:01:31+02:00
-draft: true
+draft: false
 slug: "bireysel-emeklilik-sistemlerinin-sorunlari"
 ---
 

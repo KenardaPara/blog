@@ -1,7 +1,7 @@
 ---
 title: "Endeks Fonları"
 date: 2018-05-13T16:55:21+02:00
-draft: true
+draft: false
 slug: "endeks-fonlarla-tanisin"
 ---
 
