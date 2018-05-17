@@ -2,6 +2,7 @@
 title: "Portfolio Vis"
 date: 2018-05-14T08:23:30+02:00
 draft: true
+slug: "portfolio-visualizer-ile-analiz"
 ---
 
 Çok sık duyduğumuz bir laf var. "Zamanında dedemden 100 Lira miras kalmıştı, o parayla Aselsan Hissesi alsaydım zengindim".
