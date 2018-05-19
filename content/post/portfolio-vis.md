@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Vis"
+title: "Portfolio Visualizer ile Tanışın"
 date: 2018-05-14T08:23:30+02:00
 draft: true
 slug: "portfolio-visualizer-ile-analiz"

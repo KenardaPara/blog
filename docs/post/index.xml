@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Kenarda Para</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 13 May 2018 16:55:21 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 08:23:30 +0200</lastBuildDate>
     
 	<atom:link href="http://draft.kenardapara.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Portfolio Vis</title>
+      <link>http://draft.kenardapara.com/post/portfolio-visualizer-ile-analiz/</link>
+      <pubDate>Mon, 14 May 2018 08:23:30 +0200</pubDate>
+      
+      <guid>http://draft.kenardapara.com/post/portfolio-visualizer-ile-analiz/</guid>
+      <description>Çok sık duyduğumuz bir laf var. &amp;ldquo;Zamanında dedemden 100 Lira miras kalmıştı, o parayla Aselsan Hissesi alsaydım zengindim&amp;rdquo;. Buna ben ah-vah analizi diyorum. Yapılmamış toplu yatırım için hayıflanmak. Halbuki hayat böyle değil. İnsanların eline sürekli toplu halde para geçmiyor. Gelirlerinden azar azar biriktiriyorlar ve herhangi bir yatırım aracı alacaklarsa uzun vadede azar azar sık sık şekilde alabilirler. Buna göre doğru bir ah-vah analizi şu şekilde olmalı: Zamanında maaşımdan her ay 50TL ile altın alsaydım bugün şu kadar param olurdu.</description>
+    </item>
     
     <item>
       <title>Endeks Fonları</title>
