@@ -21,7 +21,7 @@ Biz de bakalım bu Türkiye için nasıl işlemiş. Adını vermeyeceğim ama ko
 
 ![Karsilastırma](/img/portfoy-olusturmak/result.png)
 
-2017 sonunda kadar toplam 8400$ BES e ayırmışız. Sadece hisse senedi portföyü 10.824$, sadece tahvil/bono portföyü 7285$ ve ikisinin karışımı olan portföyse 9344$ etmiş. Tahvil/bono zarar ettirirken diğer ikisi kazandırmış. Dikkat etmemiz gereken
+2017 sonunda kadar toplam 8400\$ BES e ayırmışız. Sadece hisse senedi portföyü 10.824\$, sadece tahvil/bono portföyü 7285\$ ve ikisinin karışımı olan portföyse 9344\$ etmiş. Tahvil/bono zarar ettirirken diğer ikisi kazandırmış. Dikkat etmemiz gereken
  `%100 GHE` ile `%60 GEH %40 GEK` karşılaştırması. Her ne kadar sonunda `%100 GEH` kazandırmış olsa da kriz zamanlarında(2008 sonu gibi) `%60 GEH %40 GEK` ye daha az kaybettirmiş. Yani sonunda bize kaybettiren Tahvil/Bono kriz zamanlarında koruma sağlamış.
 Buradan `%60-%40` en ideal dağılım gibi bir sonuç çıkmasın. Bunları değerlendireceğiz. Ancak önemli olan zaman zaman kaybetsek de 13 senenin sonunda 3 portföyün 2 sinde kar elde etmemiş olmamız. Özellikle unutmayın ki eğer sistemde yeterince bekleyip çıkarsak, bu kar sadece %5 oranında vergi (stopaj) kesintisine uğrayacak. Diğer finansal ürünlerde  bu kesinti genellikle %15.
 
