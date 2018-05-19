@@ -31,7 +31,7 @@ Portfolio Assets kısmındaki her bir ürün için giriş yapıyoruz. Bunun içi
 Daha sonra ise bu ürünün portföyümüzün yüzde kaçını oluşturduğunu yazıyoruz.
 Gördüğünüz gibi buradan 3 farklı portföy oluşturulup karşılaştırma yapılabilir. Bunu sık sık kullanacağız
 
-![Cikti Aciklamasi](/img/portviz/output-modes.png)
+![Cikti Aciklamasi](/img/portviz/output-model.png)
 
 Burası analizin sonucunu gösteriyor. Portföyümüz ne kadar büyümüş. En son değeri ne olmuş. Ortalama yıllık getiri neymiş gibi.
 İsterseniz bu sonuçların enflasyondan arındırılmış değerlerini de alttaki "Inflation Adjusted" a tıklayarak görebilirsiniz
