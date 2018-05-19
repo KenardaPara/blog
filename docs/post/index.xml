@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Kenarda Para</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 May 2018 08:23:30 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 17 May 2018 08:16:59 +0200</lastBuildDate>
     
 	<atom:link href="http://draft.kenardapara.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bireysel Emeklilik Portföyü Oluşturmak</title>
+      <link>http://draft.kenardapara.com/post/bireysel-emeklilik-icin-fon-dagilimina-giris/</link>
+      <pubDate>Thu, 17 May 2018 08:16:59 +0200</pubDate>
+      
+      <guid>http://draft.kenardapara.com/post/bireysel-emeklilik-icin-fon-dagilimina-giris/</guid>
+      <description>&amp;ldquo;Tüm yumurtaları tek sepete koyma&amp;rdquo; demiş eskiler. Riski dağıtmak için basit ve etkili bir yöntem. Hangi bağlamda konuşursak konuşalım riski dağıtmak olduça önemli. Konu finans olunca riski dağıtma kavramını portföy oluşturmak olarak düşünebiliriz. KenardaPara&amp;rsquo;mızın hepsini sadece altına ya da borsa endeksine yatırdığımızda gelirimizin nasıl dalgalandığın gördük
+Bu dalgalanmaya &amp;ldquo;volatilite&amp;rdquo; dedik ve bunu da risk olarak tanımladık. Dalgaya neden risk diyoruz ki ? Bunu anlamanın en kolay yolu dalganın neresindeyken finansal aracı nakte çevirdiğinizi hayal etmekte geçiyor.</description>
+    </item>
     
     <item>
       <title>Portfolio Visualizer ile Tanışın</title>
