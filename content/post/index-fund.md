@@ -38,4 +38,4 @@ Peki heykeli dikilecek bu adam -Jack Bogle- kim? Kendisi ABD'de halka açık ilk
 
 Peki bu endeks fonlara kimler yatırım yapıyor? Uzun vadeli yatırımcılar. Yani ABD'deki emeklilik adayları. Peki bizde var mı bu fonlar ? Eğer BES fonlarının **FİGK** lerine bakarsanız kesinlikle yok. Bizim fonların ortalama maliyeti %1.4 civarı. Yani Vanguard ve diğer piyasa endeks fonlarının neredeyse 10 katı.
 
-Bunun nedenlerini ileriki yazılarda tartışacağız. Ancak şimdi bunlara bir ara verelim ve sık sık kullanacağımız simulasyonları nasıl yapacağımızı öğrenelim
+Bunun nedenlerini ileriki yazılarda tartışacağız. Ancak şimdi bunlara bir ara verelim ve sık sık kullanacağımız [simulasyonları nasıl yapacağımızı öğrenelim]({{< ref "post/portfolio-vis.md" >}})

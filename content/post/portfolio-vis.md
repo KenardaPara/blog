@@ -66,4 +66,4 @@ Portolio3 | ALTIN | 10234$
 
 Kısacı BIST30 bize çok bir şey kazandırmamış ancak BIST100 neredeyse ikiye katlamış durumda. Ancak grafiğe baktığınızda göreceksiniz tüm çizgiler çok dalgalı. Buna finansta *volatilite* deniyor. Ne kadar çok dalga o kadar çok risk demek. Fazla risk bizim istemediğimiz bir şey ve bu yüzden de tek bir finansal araç yerine bunlardan bir sepet oluşturmak daha güvenli olacaktır.
 
-Gelecek yazıda bu konuya, yani Portföy oluşturmaya değineceğiz
+Gelecek yazıda bu konuya, yani [Portföy oluşturmaya değineceğiz]({{< ref "post/portfolyo-olusturma.md" >}})
