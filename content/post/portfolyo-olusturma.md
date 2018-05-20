@@ -1,7 +1,7 @@
 ---
 title: "Bireysel Emeklilik Portföyü Oluşturmak"
 date: 2018-05-17T08:16:59+02:00
-draft: true
+draft: false
 slug: "bireysel-emeklilik-icin-fon-dagilimina-giris"
 ---
 
