@@ -17,7 +17,7 @@ Bizim için önemli olan dalgalanmalar ne kadar başımızı döndürüyor ya da
 Şimdi [portfolio-visualizer](https://www.portfoliovisualizer.com/backtest-portfolio) kullanarak bazı karşılaştırmalar yapalım. Genelde ABD kaynaklı finansal özgürlük/erken emeklilik (FIRE) sitelerinde birikim safhasının başlarında önerilen çeşitli portföyler vardır. %60 Hisse senedi %40 Tahvil/Bono gibi.
 Biz de bakalım bu Türkiye için nasıl işlemiş. Adını vermeyeceğim ama kolayca bulabileceğiniz iki fonu kullanarak bunu yapalım. Hisse senedi olanın kodu [GEH](https://github.com/KenardaPara/veriler/tree/master/besdata/GEH) Borçlanma araçları yani Tahvil/Bono olanın koduysa [GEK](https://github.com/KenardaPara/veriler/tree/master/besdata/GEH)
 
-Şimdi 3 durumu karşılaştıralım. İlk portföyümüz hepsini `GEH` e koysaydık, ikincisi hepsini `GEK` e koysaydık ve üçüncüsü de önerilen gibi `%60 GEH` `%40 GEK` yapsaydık nasıl olurdu. Senaryomuzu da yazalım. 2014 Ocak başında 1$ var ve her ay sonunda BES hesabımıza 50$ ekliyoruz. 2017 Aralık sonunda hesabımızda kaç para olurdu.
+Şimdi 3 durumu karşılaştıralım. İlk portföyümüz hepsini `GEH` e koysaydık, ikincisi hepsini `GEK` e koysaydık ve üçüncüsü de önerilen gibi `%60 GEH` `%40 GEK` yapsaydık nasıl olurdu. Senaryomuzu da yazalım. 2014 Ocak başında 1\$ var ve her ay sonunda BES hesabımıza 50\$ ekliyoruz. 2017 Aralık sonunda hesabımızda kaç para olurdu.
 
 ![Karsilastırma](/img/portfoy-olusturmak/result.png)
 
