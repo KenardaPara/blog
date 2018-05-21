@@ -1,7 +1,8 @@
 ---
 title: "BES Fonlarınızı Dengeleme"
 date: 2018-05-20T13:45:21+02:00
-draft: true
+draft: false
+slug: "bireysel-emeklilik-fonlarını-dengeleme"
 ---
 
 Warren Bufftet'ın 2017 yılındaki öğütlerinden biri hisse senetlerini düşükken alıp yüksekken satmak. Peki bizim gibi uzun
@@ -29,7 +30,7 @@ Yıl | Borçlanma Fonu oranı| Hisse Senedi fonu oranı
 2017|	38.01%|	61.99%
 
 
-Kalın yazılı yıllara dikkat edelim. 2008 kriz öncesi dönem ve küresel krizi takip eden dönem. Biz her ne kadar düzenli olarak o ay için paramızı 60/40 şeklinde bölsek de 2008 yılınca hisse senetleri aşırı değerlendiği için elimizdeki Borçlanma fonlarının değeri, hisse senedi fonlarının değerine göre düşük kalmış. Dikkat edelim, elimizden eriyip giden bir fon yok. Sadece birindeki a;ırı değerlenme diğerini küçük göstermiş. Takip eden dönemde ve krizin olmasıyla tam tersi durum yaşanmış.
+Koyu renkli yıllara dikkat edelim. 2008 kriz öncesi dönem ve küresel krizi takip eden dönem. Biz her ne kadar düzenli olarak o ay için paramızı 60/40 şeklinde bölsek de 2008 yılınca hisse senetleri aşırı değerlendiği için elimizdeki Borçlanma fonlarının değeri, hisse senedi fonlarının değerine göre düşük kalmış. Dikkat edelim, elimizden eriyip giden bir fon yok. Sadece birindeki aşırı değerlenme diğerini küçük göstermiş. Takip eden dönemde ve krizin olmasıyla tam tersi durum yaşanmış.
 
 İşte burada Warren Buffet'ın sözü ve **Rebalancing** kavramı devreye giriyor. Bu tür durumlarda bizim portföyümüzü tekrar dengeli hale getirmemiz gerek.
 `Elimizdeki değerlenen fonları satıp değeri düşen fonları alarak portföy dağılımını eski haline getirmemiz gerekir`.
@@ -49,9 +50,9 @@ Portfolio 3	|	\$10,007
 
 
 Yani geçen yazıda \$9344 kalan 60/40 portföyümüz güzel bir artış göstermiş. Anlaşılan **Dengeleme** kavramı işe yaramış. Bundan faydalanmak için yapmamız gereken tek şey BES şirketinizden zamanı geldiğinde var olan birikimleri istenilen dengeye getirmekten ibaret. Neredeyse tüm BES şirketleri bunu online olarak sağlıyor. Esas önemli soru ise bunu ne zaman yapmamız gerektiği. [Bununla ilgili Vanguard fonlarının güzel bir makalesi mevcut](https://www.vanguard.com/pdf/icrpr.pdf). Özetle 3 şekilde Dengeleme yapabilirsiniz:
- * Periyodik olarak. 6 defa dağılım değiştirme hakkımız olduğunuzu düşünürseniz. En fazla 2 ayda 1
+ * Periyodik olarak. 6 defa dağılım değiştirme hakkımız olduğunuzu düşünürseniz. En fazla 2 ayda 1.
  * Hedef dağılımdan çok şaşma durumunda. Yani portföyünüz 60/40 değil de 61/39 ya da 59/41 oranındaysa dokunmayıp, sadece 65/
- 35  ya da 55/45 i geçerse müdahale etmek
- * İkisinin karışımı olarak daha düşük bir müdehale aralığı belirleyip periyodik olarak bir bunu kontrol etmek
+ 35  ya da 55/45 i geçerse müdahale etmek.
+ * İkisinin karışımı olarak daha düşük bir müdahale aralığı belirleyip periyodik olarak bunu kontrol etmek.
 
-Bu alanda yapılan araştırmaların çoğu ABD gibi stabil ekonomilere sahip ülkeler için. Bizim gibi piyasalarda dalgalanmaların çok olduğu ülkeler için ideal dengeleme yöntemini bulmak zor. 2 ayda bir çok olabilir, Yılda 1 defa az olabilir her minik sapmada tekrar yapmak yine çok zor olabilir. O yüzden 3. yöntem olan ikisinin karışımı yöntemi daha iyi gibi duruyor. Ne olursa olsun dengelenme yapılan portföy dengelenme yapılmayana göre daha çok getiriyor. Bu doğrultuda nasıl yaparsanız yapın da portföyünüzü bir şekilde dengeleyin demek şimdilik en doğrusu.
+Bu alanda yapılan araştırmaların çoğu ABD gibi stabil ekonomilere sahip ülkeler için. Bizim gibi piyasalarda dalgalanmaların çok olduğu ülkeler için ideal dengeleme yöntemini bulmak zor. İki ayda bir Dengeleme çok olabilir, yılda bir defa az olabilir, her minik sapmada tekrar yapmak yine zor olabilir. O yüzden 3. yöntem olan ikisinin karışımı yöntemi daha iyi görünüyor. Ne olursa olsun dengeleme yapılan portföy, dengelenme yapılmayana göre daha çok gelir getiriyor. Bu doğrultuda nasıl yaparsanız yapın, portföyünüzü bir şekilde dengeleyin demek şimdilik en doğrusu.
