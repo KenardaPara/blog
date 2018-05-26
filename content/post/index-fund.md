@@ -1,7 +1,7 @@
 ---
 title: "Endeks Fonları"
 date: 2018-05-13T16:55:21+02:00
-draft: false
+draft: true
 slug: "endeks-fonlarla-tanisin"
 description: "Index Fund ve ya Endeks fonu nedir? Borsa Yatirim fonlari nelerdir? Warren Buffetin tavsiyesi. Uzun Vadeli düşün"
 ---
@@ -35,5 +35,3 @@ choice should be Jack Bogle
 Peki heykeli dikilecek bu adam -Jack Bogle- kim? Kendisi ABD'de halka açık ilk endeks fonunu kuran adam. Kurduğu şirket Vanguard, bugün en büyük yatırım fonlarından. Kurulduğunda çeşitli açgözlü finans otoriteleri tarafından "Kim uzun vadede ortalama getiri elde etmek ister ki" şeklinde eleştirilmiş. Ancak Vanguard 1980'den beri o kadar başarılı olmuş ki, bu eleştiriyi yapanların bile endeks fon kurmasına sebep olmuş. Vanguard'ın başarılı olmasının en büyük nedenlerinden biri düşük fon maliyetleri. Vanguard fonlarının ortalama maliyetleri %0.11. Bu uzun vadede çok az kesintiye neden olduğu için çok yüksek getiriye olanak sağlıyor.
 
 Peki bu endeks fonlara kimler yatırım yapıyor? Uzun vadeli yatırımcılar. Yani ABD'deki emeklilik adayları. Peki bizde var mı bu fonlar ? Eğer BES fonlarının **FİGK** lerine bakarsanız kesinlikle yok. Bizim fonların ortalama maliyeti %1.4 civarı. Yani Vanguard ve diğer piyasa endeks fonlarının neredeyse 10 katı.
-
-Bunun nedenlerini ileriki yazılarda tartışacağız. Ancak şimdi bunlara bir ara verelim ve sık sık kullanacağımız [simulasyonları nasıl yapacağımızı öğrenelim]({{< ref "post/portfolio-vis.md" >}})

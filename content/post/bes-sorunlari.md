@@ -69,4 +69,4 @@ Kısacası,
 
 Nasıl bileşik faiz için dünyanın 8. harikası dediysek, **FİGK**ler de BES şirketleri için böyledir. Çünkü **FİGK**in de etkisi bileşiktir ve bizden her gün kesilir.
 
-Bir sonraki yazıda büyük üstad [John Bogle](https://en.wikipedia.org/wiki/John_C._Bogle) ve onun mucizesi [Endeks fonlardan bahsedeceğiz]({{< ref "post/index-fund.md" >}})
+İleriki yazıda bizim daha detaylı BES analizleri yapmamızı sağlayacak bir aracı [Portfolio Visualizer]({{< ref "post/portfolio-vis.md" >}}) ı tanıyacağız
