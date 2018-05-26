@@ -13,12 +13,12 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@{{ .Site.Params.twitter | default $gohugoio }}" />
     <meta name="twitter:title" content="{{ .Title }}" />
-    <meta name="twitter:description" content="{{ .Params.description | plainify }}" />
+    <meta name="twitter:description" content="{{ .Params.description }}" />
   {{ else }}
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@{{ .Site.Params.twitter | default $gohugoio }}" />
     <meta name="twitter:title" content="{{ .Title }}" />
-    <meta name="twitter:description" content="{{ .Params.description | plainify }}" />
+    <meta name="twitter:description" content="{{ .Params.description}}" />
   {{ end }}
     <meta name="twitter:image" content="{{ $avatar | absURL }}" />
 

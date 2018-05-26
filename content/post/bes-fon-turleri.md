@@ -1,7 +1,7 @@
 ---
 title: "Bireysel Emeklilikte Fon Türleri"
 date: 2018-05-24T06:32:31+02:00
-draft: true
+draft: false
 slug: "bireysel-emeklilik-fon-turleri"
 description: "Bireysel Emeklilik fonlarının çeşitleri nelerdir. Paramızı hangisine yatırmalıyız ve ya yatırmamalıyız"
 ---
@@ -26,4 +26,4 @@ Bireysel Emeklilikte getiriyi belirleyen en önemli şeylerden biri fon türleri
 * **Faso Fiso Fonlar** : Kalan fonların çoğu yüksek **FİGK** ile yatırımcıları sömürmeye çalışan fonlar. Bu fonların neredeyse hiç biri yüksek **FİGK** değerlerinden dolayı iyi performans gösterememiştir. Adında Esnek, Gevşek, Dinamik, Atak, Zıpçıktı, Akıllı gibi çeşitli sıfatlar olan bu fonlardan uzak durmakta fayda var.
 
 
-[Bu fon tiplerini gördükten sonra gelecek yazıda, benim nasıl bir fon dağılımı yaptığımdan bahsedeceğiz]({{< ref "post/bes-ideal-portfoy.md" >}})
+Sonraki yazı [bes için ideal fon dağılımı]({{< ref "post/bes-ideal-portfoy.md" >}}) ile alakalı

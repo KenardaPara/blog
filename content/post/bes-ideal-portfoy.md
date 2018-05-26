@@ -2,13 +2,11 @@
 title: "Bireysel Emeklilik Fonları için Ideal Portföy Dağılımı"
 date: 2018-05-22T20:37:33+02:00
 slug: "bireysel-emeklilik-fonlari-icin-ideal-portfoy-dagilimi"
-draft: true
+draft: false
 description: "Bireysel emeklilikte hangi fon dağılımı en çok kazandırır. Uzun vadede nasıl gelirimiz artar"
 ---
 
-İdeal fon dağılımına girmeden önce benim düşünce sürecimi anlatayım.
-
-ABD'deki FIRE(Finansak Özgürlük) tayfası daha önceki örnekte verdiğimiz gibi sadece fon ve tahvilden oluşan portföy dağılımları kullanmayı öneriyor.
+Emeklilik portföyünüzdeki fonlarınızı nasıl dağıtmanız gerektiği ile ilgili çok sayıda görüş var. ABD'deki FIRE(Finansak Özgürlük) tayfası daha önceki örnekte verdiğimiz gibi sadece fon ve tahvilden oluşan portföy dağılımları kullanmayı öneriyor.
 Bazısı biraz da risk almak için Emerging market(Gelişen Ekonomiler) dediği piyasayı da ekliyor. O da biz -yani Türkiye piyasası- oluyoruz. Hangi oranda hangi finansal araçtan olması gerektiği konusuna girmeyeyim. Bu kişiden kişiye değişebiliyor. İşin özü portföyü basit ve anlaşılır tutmayı öğütlüyorlar. Keep It Simple Stupid (KISS)
 
 Ne yazık ki Türkiye'de işler bu kadar basit değil. Adamların tahvil dediği şey kendi para birimlerinde. Bu bizim için Eurobond dediğimiz (YP) Borçlanma Araçları oluyor. Onların Emerging Market dediği Hisse senedi piyasası ise bizim borsamız oluyor.
@@ -58,6 +56,3 @@ Son olarak birikime ne zaman başladığımız da oldukça önemli. Ne kadar erk
 BES portföyünün düşük kalması moralinizi bozmasın. Bunun en büyük nedeni Yüksek **FİGK** ler. Unutmayalım ki para bizim hayatımızın odak noktası değil. Borsa, altın, tahville tek tek ilgilenerek BES den daha fazla getiri etmeniz mümkün olabilir. Ancak bunlar zaman ve stress dayanıklılığı isteyen şeyler. BES in bize sağladığı tasarrufu ve yatırımı otomatikleştirmek.
 
 Ben kendi ideal portföyümü anlatıp, geçmiş verilerle bunun getirisini göstermiş olsam da , geçmiş performans geleceğin garantisi değildir. Yatırımınız hakkındaki en iyi kararı verecek kişi sizden başkası değil. Dediklerim yatırım tavsiyesi olmadığı gibi Yorumlar kısmından beni yanlışlarsanız bu çok daha hoşuma gider.
-
-
-[Gelecek yazıda kesinti konusuna geri ]({{< ref "post/bes-harcama-donemi.md" >}})

@@ -54,4 +54,4 @@ Yani geçen yazıda \$9344 kalan 60/40 portföyümüz güzel bir artış göster
 
 Bu alanda yapılan araştırmaların çoğu ABD gibi stabil ekonomilere sahip ülkeler için. Bizim gibi piyasalarda dalgalanmaların çok olduğu ülkeler için ideal dengeleme yöntemini bulmak zor. İki ayda bir Dengeleme çok olabilir, yılda bir defa az olabilir, her minik sapmada tekrar yapmak yine zor olabilir. O yüzden 3. yöntem olan ikisinin karışımı yöntemi daha iyi görünüyor. Ne olursa olsun dengeleme yapılan portföy, dengelenme yapılmayana göre daha çok gelir getiriyor. Bu doğrultuda nasıl yaparsanız yapın, portföyünüzü bir şekilde dengeleyin demek şimdilik en doğrusu.
 
-[Gelecek yazıda BES fon tiplerine ve benim için ideal olan fon dağılımına bakacağız]({{< ref "post/bes-fon-turleri.md" >}})
+Gelecek yazıda [bireysel emeklilik fon tiplerine]({{< ref "post/bes-fon-turleri.md" >}}) değineceğiz
