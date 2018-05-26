@@ -3,6 +3,7 @@ title: "Portfolio Visualizer ile Tanışın"
 date: 2018-05-14T08:23:30+02:00
 draft: false
 slug: "portfolio-visualizer-ile-analiz"
+description: "Yatirim portföyünüz nasıl değişir? Simülasyonla bunları görmek ve ders çıkarmak mümkün"
 ---
 
 Çok sık duyduğumuz bir laf var. "Zamanında dedemden 100 Lira miras kalmıştı, o parayla Aselsan Hissesi alsaydım zengindim".

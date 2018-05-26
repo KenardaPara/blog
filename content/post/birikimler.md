@@ -3,6 +3,7 @@ title: "KenardaPara tutmanın zorluğu"
 date: 2018-05-05T16:09:17+02:00
 draft: false
 slug: "tasarruf-yapmanin-zorlugu"
+description: "Tasarruf yapmaya başlamak zorundayiz. Harcama mecburiyeti tuzağına düşmemek lazım"
 ---
 
 En çok karşılaştığım banka reklamı, tek SMS'le kullanılabilen krediler.

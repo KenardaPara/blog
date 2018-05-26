@@ -3,6 +3,7 @@ title: "Bireysel Emeklilik Portföyü Oluşturmak"
 date: 2018-05-17T08:16:59+02:00
 draft: false
 slug: "bireysel-emeklilik-icin-fon-dagilimina-giris"
+description: "Bireysel Emeklilikte paramızı nasıl dağıtmalıyız. Hangi fonlar iyi getiri elde etmiş "
 ---
 
 "Tüm yumurtaları tek sepete koyma" demiş eskiler. Riski dağıtmak için basit ve etkili bir yöntem.

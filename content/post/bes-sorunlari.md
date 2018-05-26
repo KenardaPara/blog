@@ -3,6 +3,7 @@ title: "Bireysel Emeklilik Sistemlerinin Sorunlari"
 date: 2018-05-12T13:01:31+02:00
 draft: false
 slug: "bireysel-emeklilik-sistemlerinin-sorunlari"
+description: "Bireysel emeklilik sisteminde bizi ne tür sorunlar bekliyor. Fon işletim kesintisi nedir ve nasil etkiler "
 ---
 
 Bireysel Emeklilik için en kolay yatırım aracı dedik. Maaşınızdan ya da hesabınızdan otomatik olarak çekilen bir para.

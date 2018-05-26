@@ -3,6 +3,7 @@ title: "Endeks Fonları"
 date: 2018-05-13T16:55:21+02:00
 draft: false
 slug: "endeks-fonlarla-tanisin"
+description: "Index Fund ve ya Endeks fonu nedir? Borsa Yatirim fonlari nelerdir? Warren Buffetin tavsiyesi. Uzun Vadeli düşün"
 ---
 
 Finans hakkında bir blog yazıp da Warren Buffett'dan bahsetmemek olmaz. Bizim konumuz Buffet'ın 2017'de kazandığı 1 Milyon Dolarlık bir iddia. İddianın konusu şuydu:
@@ -24,10 +25,7 @@ Tahmin edersiniz ki pasif olarak yönetilen bu fonların yönetimi çok daha kol
 
 İşin ilginç kısmı, pasif olarak yönetilen fonların uzun vadede getirisi daha yüksek. Warren Buffet'ın iddiasına konu olan da bu iki fon tipi arasındaki rekabetti ve Buffet'ın tercihi olan düşük maliyetli endeks fonları bu iddiayı kazanmasını sağladı.
 
-Nasıl oluyor da yata yata duran bir fonun getirisi, aktif olarak yönetilen bir fondan daha çok oluyor sorusu akla geliyor. Bunun teorisi ve detayları çok. Konuyla ilgili en ünlü kitap [A Random Walk Down Wall Street](https://www.amazon.com/Random-Walk-Down-Street-ebook/dp/B004KKXMZQ/) . Kısacası bir maymunun bile herhangi bir finansal yönetici kadar iyi hisse seçebileceğini anlatıyor. Ek olarak *Market Timing* denilen, ne zaman kriz çıkacak ya da ne zaman hisseler düşüp değerlenecek kâhinliğinin gerçekçi olma olasılığnın çok düşük olduğundan bahsediyor
-
-
-Warren Buffett'ın 2017 yatırımcı mektuplarında şöyle bir kısım var:
+Nasıl oluyor da yata yata duran bir fonun getirisi, aktif olarak yönetilen bir fondan daha çok oluyor sorusu akla geliyor. Bunun teorisi ve detayları çok. Konuyla ilgili en ünlü kitap [A Random Walk Down Wall Street](https://www.amazon.com/Random-Walk-Down-Street-ebook/dp/B004KKXMZQ/) . Kısacası bir maymunun bile herhangi bir finansal yönetici kadar iyi hisse seçebileceğini anlatıyor. Ek olarak *Market Timing* denilen, ne zaman kriz çıkacak ya da ne zaman hisseler düşüp değerlenecek kâhinliğinin gerçeNeden tasarruf yapmak zorundayiz ?ısım var:
 
 > If a statue is ever erected to honor the person who has done the most for American investors, the handsdown
 choice should be Jack Bogle

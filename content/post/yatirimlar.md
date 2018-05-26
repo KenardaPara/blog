@@ -1,8 +1,9 @@
 ---
-title: "KenardaParayı değerlendirmenin zorunluluğu"
+title: "KenardaParayı değerlendirmenin zorunluluğu: Yatirim"
 date: 2018-05-05T21:56:52+02:00
 draft: false
 slug: "birikimleri-degerlendirmenin-zorunlulugu"
+description: "Enflasyon birkimlerimizi hizla eritiyor. Enflasyondan nasil kurtuluruz. Paramizin erimemesi icin ne yapmak lazim"
 ---
 
 Tasarruflardan bahsettik ve sadece tasarruf yapmanın yeterli olmadığını söyledik. Çünkü enflasyon denen ekonomik faktör yaptığımız tasarrufları eritip gidiyor. Enflasyonun eritme hızından kurtulmamız için gereken şey ise **yatırım**

@@ -1,9 +1,11 @@
 ---
-title: "Bireysel Emeklilik Fon Türleri"
+title: "Bireysel Emeklilikte Fon Türleri"
 date: 2018-05-24T06:32:31+02:00
 draft: true
 slug: "bireysel-emeklilik-fon-turleri"
+description: "Bireysel Emeklilik fonlarının çeşitleri nelerdir. Paramızı hangisine yatırmalıyız ve ya yatırmamalıyız"
 ---
+
 
 Bireysel Emeklilikte getiriyi belirleyen en önemli şeylerden biri fon türleridir. Yatırımlarımızı hangi fona ne kadar yönlendireceğimize doğru karar vermek için ilk önce bu fon çeşitlerini anlamamız lazım. Her bankanın çeşit çeşit fonu var ancak bunları şu sınıflarda altında genelleyebilir
 
@@ -19,9 +21,9 @@ Bireysel Emeklilikte getiriyi belirleyen en önemli şeylerden biri fon türleri
 
 * **Katılım Fonları** : İslami şartlara uygun fonlar. Çok çeşidi var ancak bu fonlarla benim yeterince tecrübem yok.
 
-* **Yabancı Ülke Fonları** : Bu tip fonlar çok yok. Mesela Anadolu Hayat'ın BRIC denilen - Brezilya, Hindistan, Rusya, Çin- fonu ya da ABD ve AB hisselerinin ağırlıklı olduğu Gelişmiş Ülkeler fonu gibi. Eğer bu ülkelerin ekonomilerinin iyiye gideeğine inanıyorsanız buralardan yüksek getiri bekleyebilirsiniz
+* **Yabancı Ülke Fonları** : Bu tip fonlar çok yok. Mesela Anadolu Hayat'ın BRIC denilen - Brezilya, Hindistan, Rusya, Çin- fonu ya da ABD ve AB hisselerinin ağırlıklı olduğu Gelişmiş Ülkeler fonu gibi. Eğer bu ülkelerin ekonomilerinin iyiye gideceğine inanıyorsanız buralardan yüksek getiri bekleyebilirsiniz
 
 * **Faso Fiso Fonlar** : Kalan fonların çoğu yüksek **FİGK** ile yatırımcıları sömürmeye çalışan fonlar. Bu fonların neredeyse hiç biri yüksek **FİGK** değerlerinden dolayı iyi performans gösterememiştir. Adında Esnek, Gevşek, Dinamik, Atak, Zıpçıktı, Akıllı gibi çeşitli sıfatlar olan bu fonlardan uzak durmakta fayda var.
 
 
-[Bu fon tiplerini gördükten sonra gelecek yazıda, benmim nasıl bir fon dağılımı yağtığımdan bahsedeeğiz]({{< ref "post/bes-ideal-portfoy.md" >}})
+[Bu fon tiplerini gördükten sonra gelecek yazıda, benim nasıl bir fon dağılımı yaptığımdan bahsedeceğiz]({{< ref "post/bes-ideal-portfoy.md" >}})

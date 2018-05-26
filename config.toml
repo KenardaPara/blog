@@ -32,10 +32,10 @@ disqusShortname = "kenardapara"
 # Add your own params here
 [params]
   author = "VaryemezAmca"
-  avatar = "/img/favicon-1024.png"
-  seotitle = "Kenarda Para, Pasif Yatırım, Finansal Özgürlük ve Bireysel Emeklilik Üzerine Bir Blog"
+  avatar = "/img/favicon-256.png"
+  seotitle = "Birikim, Yatırım, Bireysel Emeklilik ve Finansal Özgürlük"
   subtitle = "İlerde lazım olur"
-  description = "Kenarda parasıyla finansal özgürlük kazanmak isteyenlere yazılar ve veriye dayalı analizler"
+  description = "Kenarda parasıyla finansal özgürlük kazanmak isteyenlere yazılar, ipuçları ve açık veriye dayalı analizler"
   paginate = 10
 
   # Choose your social networks

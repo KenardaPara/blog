@@ -2,7 +2,7 @@
 title: "BES Fonlarınızı Dengeleme"
 date: 2018-05-20T13:45:21+02:00
 draft: false
-slug: "bireysel-emeklilik-fonlarını-dengeleme"
+slug: "bireysel-emeklilik-fonlarini-dengeleme"
 ---
 
 Warren Bufftet'ın 2017 yılındaki öğütlerinden biri hisse senetlerini düşükken alıp yüksekken satmak. Peki bizim gibi uzun
@@ -14,10 +14,7 @@ Geçen yazıda sizden sakladığım bir grafik vardı. Simulasyon sonunçlarınd
 
 Yıl | Borçlanma Fonu oranı| Hisse Senedi fonu oranı
 ----|-----|----
-2004| 40.00%|	60.00%
-2005|	41.53%|	58.47%
-2006|	36.15%|	63.85%
-2007|	37.24%|	62.76%
+2004| 40.00%|	60.00%http://www.mrmilyoner.com/yurhttps://www.kenardapara.com/post/bireysel-emeklilik-fonlar%C4%B1n%C4%B1-dengeleme/
 **2008**|	**32.65%**|	**67.35%**
 **2009**|	**52.48%**|	**47.52%**
 2010|	41.54%|	58.46%

@@ -2,6 +2,7 @@
 title: "Emeklilik Sistemleri"
 date: 2018-05-07T07:55:41+02:00
 draft: false
+description: "Emekli maasiyla gecinmek mumkun mu? Emeklilik sistemleri gercekci mi?  "
 ---
 
 

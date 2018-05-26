@@ -3,16 +3,8 @@ title: "Bireysel Emeklilik Fonları için Ideal Portföy Dağılımı"
 date: 2018-05-22T20:37:33+02:00
 slug: "bireysel-emeklilik-fonlari-icin-ideal-portfoy-dagilimi"
 draft: true
+description: "Bireysel emeklilikte hangi fon dağılımı en çok kazandırır. Uzun vadede nasıl gelirimiz artar"
 ---
-
-Bireysel Emeklilik Fonları ile ilgili sıkıntılardan biri çok çeşit olması ve sıradan bir insanın bunları anlamaması.
-Aslında sorun BES Fonlarının çeşitliliğinde değil bizim finansal okur yazarlığımızda. Ben bu blogla toplumun finansal okur yazarılığını geliştirmeyi hedefliyorum. Ben zengin olmadım ancak kendi BES fonlarım ile ilgili verdiğim kararlar beni yanıltmadığı ve birikimim oldukça arttı. Kendi fon tecrübemi sizinle paylaşırsam , basitliğin nasıl yüksek gelire dönüştüğünü belki gösterebilirim. Basitliği anlamak için ilk önce çeşitlerine bakalım
-
-
-
-
-
-## İdeal Fon Dağılımım
 
 İdeal fon dağılımına girmeden önce benim düşünce sürecimi anlatayım.
 
@@ -36,12 +28,12 @@ Ama bunu yine de Portfolio Visualizer ile GOLD Assetini kullanarak 2009'dan beri
 * 40/60 Hisse/YPBorçlanma
 * 20/40/40 Hise/Altın/YPBorçlanma
 
-Bakalım her ay 50$ Karşlığı yatıran biri için bu portföyler 2005 ten beri nasıl gelişmiş.
+Bakalım her ay 50$ karşılığı yatıran biri için bu portföyler 2005 ten beri nasıl gelişmiş.
 ![Portföy Gelişimi](/img/ideal-bes/benchmark.png)
 
 Mart sonuna kadar yatırılan para 7850\$. 3 Portföy de getirisi ortalama 10.500\$. 2005ten beri devlet katkısı ve vergi avantajını hesaba katarsak 1950\$ gibi bir sayı çıkar.  Doğrudan Devlet katkısının 2013 yılında başlaması sebebiyle devlet katkısı getirisi o kadar yüksek değil. Ortalama toplam 50\$ civarı diyelim. Devletin desteğine kabaca 2000\$ diyebiliriz. (1950+50). Toplam biriken miktar 12500\$ civarı olacaktır
 
-Yani 13 sene boyunca BES'e sabit 50\$ yatırdığınızda %59 gelir elde etmişiz. Unutmayın 7850\$ 2005 yılında yatırılmadı. Çeşitli platformlarda böyle düşünülüp karşılaştırma yapılıyor. "2005 te 7500\$ ı X e yatırsam 10 a katlamıştı" şekilnde. Halbuki 2005 yılında elimizde sadece 50\$ vardı. Bu yatırımımız zamana yayıldı.
+Yani 13 sene boyunca BES'e sabit 50\$ yatırdığınızda %59 gelir elde etmişiz. Unutmayın 7850\$ 2005 yılında yatırılmadı. Çeşitli platformlarda böyle düşünülüp karşılaştırma yapılıyor. "2005 te 7500\$ ı X e yatırsam 10 a katlamıştı" şeklinde. Halbuki 2005 yılında elimizde sadece 50\$ vardı. Bu yatırımımız zamana yayıldı.
 
 Bu 3 portföye bakacak olursa en az dalgalanan nihayetinde en çok gelir elde eden  20/40/40 Hise/Altın/YPBorçlanma Portöyü
 
@@ -52,7 +44,7 @@ Peki bu getiri iyi mi kötü mü ? neye göre iyi neye göre kötü ? Bu portfö
 [!Benchmark](/img/ideal-bes/benchmark.png)
 
 Portföy1 bizim az önce oluşturduğumuz benim için ideal olan portföy. Dikkat edin `Final Value` devlet katkısını dikkate almıyor.
-Portföy2 ABDli bir emekli adayına sıklıça tavsiye edilen `Growth Portfolio`. Bu Portfolio Viusalızer(PV) da mevcut.
+Portföy2 ABDli bir emekli adayına sıklıkça tavsiye edilen `Growth Portfolio`. Bu Portfolio Viusalızer(PV) da mevcut.
 Portföy3 de yine ABD için olan `60/40 Stock/Bond` Portföyü bu da PV de mevcut.
 Yeşil çizgi ise BIST100 un Dolar cinsinden değeri.
 
@@ -61,11 +53,11 @@ Devlet katkısı olmasa BES portföyümüzün hali oldukça kötü. Ancak devlet
 BIST100 ise çok fazla dalgalansa da güzel getiri sağlamış. Unutmayalım ki 2008 Mayıs ayındaki gelişmelerle BIST100 oldukça erimiş durumda.
 2018 Seçimlerinden sonra tekrar bir yazı yazıp bunu değerlendirebilirim
 
-Son olarak birikime ne zaman başladığımız da oldukça önemli. Ne kadar erken o kadar ço bileşik faiz etkisinden yararlanırız. Bu grafikleri 2009 yılında başlatsak oldukça farklı sonuçlar göstereceki.
+Son olarak birikime ne zaman başladığımız da oldukça önemli. Ne kadar erken o kadar ço bileşik faiz etkisinden yararlanırız. Bu grafikleri 2009 yılında başlatsak oldukça farklı sonuçlar gösterecekti.
 
-BES portföyünün düşük kalması moralinizi bozmasın. Bunun en büyük nedeni Yüksek **FİGK** ler. Unutmayalim ki para bizim hayatımızın odak noktası değil. Borsa, altın, tahville tek tek ilgilenerek BES den daha fazla getiri etmeniz mümkün olabilir. Ancak bunlar zaman ve stress dayanıklılığı isteyen şeyler. BES in bize sağladığı tasarrufu ve yatırımı otomatikleştirmek.
+BES portföyünün düşük kalması moralinizi bozmasın. Bunun en büyük nedeni Yüksek **FİGK** ler. Unutmayalım ki para bizim hayatımızın odak noktası değil. Borsa, altın, tahville tek tek ilgilenerek BES den daha fazla getiri etmeniz mümkün olabilir. Ancak bunlar zaman ve stress dayanıklılığı isteyen şeyler. BES in bize sağladığı tasarrufu ve yatırımı otomatikleştirmek.
 
-Ben kendi ideal portföyümü anlatıp, geçmiş verilerle bunun getiriini göstermiş olsam da , geçmiş performans geleceğin garantisi değildir. Yatırımınız hakkındaki en iyi kararı verecek kişi sizden başkası değil. Dediklerim yatırım tavsiyesi olmadığı gibi Yorumlar kısmından beni yanlışlarsanız bu çok daha hoşuma gider.
+Ben kendi ideal portföyümü anlatıp, geçmiş verilerle bunun getirisini göstermiş olsam da , geçmiş performans geleceğin garantisi değildir. Yatırımınız hakkındaki en iyi kararı verecek kişi sizden başkası değil. Dediklerim yatırım tavsiyesi olmadığı gibi Yorumlar kısmından beni yanlışlarsanız bu çok daha hoşuma gider.
 
 
 [Gelecek yazıda kesinti konusuna geri ]({{< ref "post/bes-harcama-donemi.md" >}})

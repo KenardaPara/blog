@@ -7,7 +7,13 @@
   <!-- Page Title -->
   <title>
     {{- block "title" . -}}
-      {{ if eq .Kind "page" }}{{ .Title }}{{ else if isset .Site.Params "seotitle" }}{{ .Site.Params.seotitle }}{{ else }}{{ .Site.Title }}{{ end }}
+      {{ if eq .Kind "page" }}
+        {{ .Title }} | KenardaPara
+      {{ else if isset .Site.Params "seotitle" }}
+        {{ .Site.Params.seotitle }} | KenardaPara
+      {{ else }}
+        {{ .Site.Title }} | KenardaPara
+      {{ end }}
     {{- end -}}
   </title>
 
