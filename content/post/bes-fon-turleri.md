@@ -1,6 +1,6 @@
 ---
 title: "Bireysel Emeklilikte Fon Türleri"
-date: 2018-05-24T06:32:31+02:00
+date: 2018-05-22T06:32:31+02:00
 draft: false
 slug: "bireysel-emeklilik-fon-turleri"
 description: "Bireysel Emeklilik fonlarının çeşitleri nelerdir. Paramızı hangisine yatırmalıyız ve ya yatırmamalıyız"

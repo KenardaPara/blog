@@ -1,6 +1,6 @@
 ---
 title: "Bireysel Emeklilik Fonları için Ideal Portföy Dağılımı"
-date: 2018-05-22T20:37:33+02:00
+date: 2018-05-24T20:37:33+02:00
 slug: "bireysel-emeklilik-fonlari-icin-ideal-portfoy-dagilimi"
 draft: false
 description: "Bireysel emeklilikte hangi fon dağılımı en çok kazandırır. Uzun vadede nasıl gelirimiz artar"
