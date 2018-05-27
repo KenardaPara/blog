@@ -39,7 +39,7 @@ Bu 3 portföye bakacak olursa en az dalgalanan nihayetinde en çok gelir elde ed
 
 Peki bu getiri iyi mi kötü mü ? neye göre iyi neye göre kötü ? Bu portföyü iki tane yerel 1 tane de yabancı yatırım aracıyla karşılaştıralım (Benchmark yapalım)
 
-[!Benchmark](/img/ideal-bes/benchmark.png)
+![Benchmark](/img/ideal-bes/benchmark.png)
 
 Portföy1 bizim az önce oluşturduğumuz benim için ideal olan portföy. Dikkat edin `Final Value` devlet katkısını dikkate almıyor.
 Portföy2 ABDli bir emekli adayına sıklıkça tavsiye edilen `Growth Portfolio`. Bu Portfolio Viusalızer(PV) da mevcut.
