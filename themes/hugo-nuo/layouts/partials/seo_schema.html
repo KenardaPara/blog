@@ -1,3 +1,5 @@
+{{ $avatar := "/img/avatar.png" }}
+
 <script type="application/ld+json">
 {
     "@context" : "http://schema.org",
@@ -10,10 +12,10 @@
     "name" : "{{ .Title }}",
     "headline" : "{{ .Title }}",
     "description" : "{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}",
-    "inLanguage" : "en-US",
-    "author" : "{{ range .Site.Author }}{{ . }}{{ end }}",
-    "creator" : "{{ range .Site.Author }}{{ . }}{{ end }}",
-    "publisher": "{{ range .Site.Author }}{{ . }}{{ end }}",
+    "inLanguage" : "tr",
+    "author" : "VaryemezAmca",
+    "creator" : "VaryemezAmca",
+    "publisher": "KenardaPara",
     "accountablePerson" : "{{ range .Site.Author }}{{ . }}{{ end }}",
     "copyrightHolder" : "{{ range .Site.Author }}{{ . }}{{ end }}",
     "copyrightYear" : "{{ .Date.Format "2006" }}",
@@ -21,6 +23,7 @@
     "dateModified" : "{{ .Date }}",
     "url" : "{{ .Permalink }}",
     "wordCount" : "{{ .WordCount }}",
+    "image": "{{ $avatar | absURL }}",
     "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }}"Blog" ]
 }
 </script>
