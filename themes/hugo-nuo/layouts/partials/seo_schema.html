@@ -24,7 +24,10 @@
     "publisher": {
       "name": "KenardaPara",
       "@type": "Organization",
-      "logo":"{{ $avatar | absURL }}" 
+      "logo":{
+        "@type": "ImageObject",
+        "url":"{{ $avatar | absURL }}"
+      }
     },
     "accountablePerson" : "{{ range .Site.Author }}{{ . }}{{ end }}",
     "copyrightHolder" : "{{ range .Site.Author }}{{ . }}{{ end }}",
