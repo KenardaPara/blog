@@ -13,9 +13,19 @@
     "headline" : "{{ .Title }}",
     "description" : "{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}",
     "inLanguage" : "tr",
-    "author" : "VaryemezAmca",
-    "creator" : "VaryemezAmca",
-    "publisher": "KenardaPara",
+    "author" : {
+      "name": "VaryemezAmca",
+      "@type": "Person"
+    },
+    "creator" : {
+      "name": "VaryemezAmca",
+      "@type": "Person"
+    },
+    "publisher": {
+      "name": "KenardaPara",
+      "@type": "Organization",
+      "logo":"{{ $avatar | absURL }}" 
+    },
     "accountablePerson" : "{{ range .Site.Author }}{{ . }}{{ end }}",
     "copyrightHolder" : "{{ range .Site.Author }}{{ . }}{{ end }}",
     "copyrightYear" : "{{ .Date.Format "2006" }}",
