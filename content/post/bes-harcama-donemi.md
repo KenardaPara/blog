@@ -1,7 +1,7 @@
 ---
 title: "Bireysel Emeklilikte Emeklilik Dönemi"
 date: 2018-05-28T07:30:22+02:00
-draft: true
+draft: false
 slug: "bireysel-emeklilikte-emeklilik-donemi"
 description: "Bireysel Emeklilikte biriktirdiğimiz parayı harcamak için 3 yöntem var. Bunları artıları ve eksileriyle değerlendirdikç Verilerle ve grafiklerle açıklamaya çalıştık"
 ---
