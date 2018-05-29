@@ -1,9 +1,9 @@
 ---
 title: "Bireysel Emeklilikte Emeklilik Dönemi"
-date: 2018-05-22T07:30:22+02:00
+date: 2018-05-28T07:30:22+02:00
 draft: true
 slug: "bireysel-emeklilikte-emeklilik-donemi"
-description: "Bireysel Emekililkte emeklilik dönemi nasıl oluyor? Ne kaar geliriniz olabilir. Birikiminiz yeter mi"
+description: "Bireysel Emeklilikte biriktirdiğimiz parayı harcamak için 3 yöntem var. Bunları artıları ve eksileriyle değerlendirdikç Verilerle ve grafiklerle açıklamaya çalıştık"
 ---
 
 Daha önceki yazılarda BES te birikim dönemini değerlendirdik. Şimdi bakacağımız konuysa, emeklilik yaşımız geldiğinde bizi bekleyen seçenekler ver harcama yöntemleri
@@ -11,7 +11,7 @@ Daha önceki yazılarda BES te birikim dönemini değerlendirdik. Şimdi bakaca�
 
 Bireysel emeklilik sistemi 56 yaşını doldurmuş ve sistemde 10 yıl kalmış kişilere birikimlerini almak için 3 seçenek sunuyor:
 
-* Toplu para alımı: O güne kadar biritirdiğiniz tüm parayı almak
+* Toplu para alımı: O güne kadar biriktirdiğiniz tüm parayı almak
 * Yıllık gelir sigortası: Her ay belirli bir maaş almayı garanti eden sigorta ürünü.
 * Programlı geri ödeme: Biriktirdiğiniz fonları yavaş, yavaş harcamak için olan yöntem.
 
@@ -23,9 +23,9 @@ Bu yöntemde fonlardan elde ettiğiniz gelirden %5 vergi kesintisi uygulandıkta
 
 ## Yıllık Gelir Sigortası
 
-Emeklilik şirketine birkim dönemi sonunda "aş ben bu kadar para biriktirdim, şimdi sen bununla ben ölene kadar her ay bana ne kadar para verebileceksen ver" demesidir. Adından da anlaşılacağı gibi aylık maaş garantidir. Sizin fonlarınızın durumuna bakmaz. Ek olarak sigorta şirketinin maaşınızı her sene enflasyon oranında arttırması beklenir. Bu yöntem 2015 yılında getirildi. Kağıt üstünde planlanma yapılmış ols da internet üzerinde çok fazla teklife YGS teklifine karşılaşmak mümkün değil.
+Emeklilik şirketine birikim dönemi sonunda "aş ben bu kadar para biriktirdim, şimdi sen bununla ben ölene kadar her ay bana ne kadar para verebileceksen ver" demesidir. Adından da anlaşılacağı gibi aylık maaş garantidir. Sizin fonlarınızın durumuna bakmaz. Ek olarak sigorta şirketinin maaşınızı her sene enflasyon oranında arttırması beklenir. Bu yöntem 2015 yılında getirildi. Kağıt üstünde planlanma yapılmış olsa da internet üzerinde çok fazla teklife YGS teklifine karşılaşmak mümkün değil.
 
-Bu yöntem her sigorta yönteminde olduğu gibi gayet karışık yapılmış durumda. Detaylı simulasyonlarına [EGM](http://emeklilik.egm.org.tr/?sid=66) sayfasından ulaşabilirsiniz. EGM 6 ya ayırmış durumda. Benim açımda 2 ye ayrılmış haldeler. Birikiminizin miras olarak kaldığı ve kalamadığı. Miras ile kasıt sadece Toplu para değil, mirasçılarınıza da berlirli bir süreyle maaş bağlanması gibiç
+Bu yöntem her sigorta yönteminde olduğu gibi gayet karışık yapılmış durumda. Detaylı simülasyonlarına [EGM](http://emeklilik.egm.org.tr/?sid=66) sayfasından ulaşabilirsiniz. EGM 6 ya ayırmış durumda. Benim açımda 2 ye ayrılmış haldeler. Birikiminizin miras olarak kaldığı ve kalamadığı. Miras ile kasıt sadece Toplu para değil, mirasçılarınıza da belirli bir süreyle maaş bağlanması gibi.
 
 Bu yöntem benim şu an için çok içime sinmiş durumda değil. Genel olarak sigorta şirketlerine karşı bir güvensizliğim var. Mesela Garanti Gelirin TÜFE oranında arttırılması bekleniyor ama sigorta şirketleri bazı şeyleri bahane edip ödeyemeyecek duruma düşerlerse ne olacağı belli değil. Bu kısmın devlet güvencesi yok. Unutmayalım 2008 krizinde Lehman Brothers dan sonra ilk batan şirketlerden bazıları sigorta şirketleriydi.
 
@@ -34,22 +34,22 @@ Bu yöntem benim şu an için çok içime sinmiş durumda değil. Genel olarak s
 Bu yöntem çok daha basit. 56 yaşına geldiğinizde tasarruflarınızı yavaş yavaş sistemden vergi avantajından da faydalanarak çekiyorsunuz. Aylık, 3 aylık , 6 aylık ve yıllık şeklinde seçenekleriniz var. Fon dağılımınızı yılda 2 defa değiştirme hakkınız var. Hatta üzerine ödeme yapma olanağınız da var.
 Kötü tarafı kriz gibi durumlarda fonlarınızın değeri düşebilir. Bu tür zamanlarda en ideal şey ya giderlerinizi kısmak ya da tekrar çalışmaya başlamak. Bu durumun en büyük riski 56-65 yaş arası olacaktır. 65 yaşında devletten emekli maaşı alacağınız garanti. Bu 9 senenin başında ekonomik kriz olmadığı sürece doğru planlama ile sıkıntı yaşamayacaksınızdır.
 
-Peki doğru programlı geri ödeme planı nedir? Geri ödeme süresinin bitimine kadar portföyünüzün erimemesi demek. Yani 56 yaşında emekli olunca ömrünüzü 85 yıl diye tahmin ediyorsanız birkiminizin 30 yıl boyunca erimemesi demek.
+Peki doğru programlı geri ödeme planı nedir? Geri ödeme süresinin bitimine kadar portföyünüzün erimemesi demek. Yani 56 yaşında emekli olunca ömrünüzü 85 yıl diye tahmin ediyorsanız birikiminizin 30 yıl boyunca erimemesi demek.
 
-ABD kaynaklı emeklilik için bu "Safe Withdrawal Rate" olarak tanımlanıyor. Bu oran [Trinity Araştırma](https://en.wikipedia.org/wiki/Trinity_study) sonucuna göre %4 olarak belirlenmiş. Yani emekliliğinizin başında yıllık maaşınızı birkiminizin %4 ü olacak şekilde belirleyip her sene bu maaşı enflasyon oranında arttırısanız birikiminiz yüksek olasalıkla(%95) 30 sene boyunca erimiyor. Hatta bazı durumlarda çok aha fazla para ile sonlanabiliyor.
+ABD kaynaklı emeklilik için bu "Safe Withdrawal Rate" olarak tanımlanıyor. Bu oran [Trinity Araştırma](https://en.wikipedia.org/wiki/Trinity_study) sonucuna göre %4 olarak belirlenmiş. Yani emekliliğinizin başında yıllık maaşınızı birkiminizin %4 ü olacak şekilde belirleyip her sene bu maaşı enflasyon oranında arttırtsanız birikiminiz yüksek olasılıkla(%95) 30 sene boyunca erimiyor. Hatta bazı durumlarda çok aha fazla para ile sonlanabiliyor.
 
-Tabi bu araştırma ABD deki çok uzun yıllardan beri var olan verilere bakılarak yapılmış. Ne yazık ki bizde bu kadar geçmişe dayanan bir veri yok. BESin 2003 yılında başladığını düşünürsek en fazla 15 yıllık veri var. Bu veriye bakarak ufak bir simulasyon yapalım
+Tabi bu araştırma ABD deki çok uzun yıllardan beri var olan verilere bakılarak yapılmış. Ne yazık ki bizde bu kadar geçmişe dayanan bir veri yok. BESin 2003 yılında başladığını düşünürsek en fazla 15 yıllık veri var. Bu veriye bakarak ufak bir simülasyon yapalım
 
-Diyelimki gelirimiz 1250\$ olsun. TL de diyebilirisniz fark etmez. Maaşımızın %20 sini biriktiriyoruz. 250\$. Yani 1000\$ harcıyoruz aylık. Ve 2005 yılına kadar elimizde 300.000\$ biriktirmişiz ve 2003 yılı başında bu paranın hepsini Bireysel Emeklilik sistemine koyuyoruz. 300.000 * %4 -> 12.000\$ yıllık yani 1000\$ aylık. Yani çalışırkenle aynı miktar para harcıyoruz.
-Birikimlerimiz de daha önce bahsettiğimiz ideal bes dağılımındaki gibi duruyor olsun
+Diyelim ki gelirimiz 1250\$ olsun. TL de diyebilirsiniz farketmez. Maaşımızın %20 sini biriktiriyoruz. 250\$. Yani 1000\$ harcıyoruz aylık. Ve 2005 yılına kadar elimizde 300.000\$ biriktirmişiz ve 2003 yılı başında bu paranın hepsini Bireysel Emeklilik sistemine koyuyoruz. 300.000 * %4 -> 12.000\$ yıllık yani 1000\$ aylık. Yani çalıştığımız durumla aynı miktar para harcıyoruz.
+Birikimlerimiz de daha önce bahsettiğimiz ideal BES dağılımındaki gibi duruyor olsun
 
 Bakalım bu durumda 2003 yılından beri portföyümüz nasıl değişmiş
 ![Planli Geri Odeme Grafigi](/img/bes-harcama/harcama1.png)
 
-Görüdüğünüz gibi portföyümüz erimemiş üstüne artmış. Ama bu sadece 2005 yılından bugune olan tek bir portföy örneği için. Yani Trinity Araştırması bunu çeşitli portföyler için , çeşitli yıllar aralığında yapmıştı. Bizim şansımıza iyi bir dönem denk geldi.
+Gördüğünüz gibi portföyümüz erimemiş üstüne artmış. Ama bu sadece 2005 yılından bugüne olan tek bir portföy örneği için. Yani Trinity Araştırması bunu çeşitli portföyler için , çeşitli yıllar aralığında yapmıştı. Bizim şansımıza iyi bir dönem denk geldi.
 Ancak 2005 değil de 2008, yani küresel krizin başladığı yılda yapsaydık portföyümüzün erimeye başladığını görecektik
 
-Portfolio Visualizer'in bu gibi az veriyle test yapmak için başka bir güzel özelliği de var. O da Monte Carlo simulasyonu sekmesi. Bunun istatistikle alakalı detaylarına girmeyeceğim. Bunun sonucunu şöyle düşünebilirsiniz. Yüzde kaç ihtimalle benim portföyüm erimeden simulasyon süresini atlatacak.
+Portfolio Visualizer'in bu gibi az veriyle test yapmak için başka bir güzel özelliği de var. O da Monte Carlo simülasyonu sekmesi. Bunun istatistikle alakalı detaylarına girmeyeceğim. Bunun sonucunu şöyle düşünebilirsiniz. Yüzde kaç ihtimalle benim portföyüm erimeden simülasyon süresini atlatacak.
 
 Az önceki senaryoyu [Portfolio Visualizer'in](https://www.portfoliovisualizer.com/monte-carlo-simulation) nin ilgili alanına girelim.
 
