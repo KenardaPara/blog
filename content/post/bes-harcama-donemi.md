@@ -3,7 +3,7 @@ title: "Bireysel Emeklilikte Emeklilik Dönemi"
 date: 2018-05-28T07:30:22+02:00
 draft: false
 slug: "bireysel-emeklilikte-emeklilik-donemi"
-description: "Bireysel Emeklilikte biriktirdiğimiz parayı harcamak için 3 yöntem var. Bunları artıları ve eksileriyle değerlendirdikç Verilerle ve grafiklerle açıklamaya çalıştık"
+description: "Bireysel Emeklilikte biriktirdiğimiz parayı harcamak için 3 yöntem var. Bunları artıları ve eksileriyle değerlendirdik. Verilerle ve grafiklerle açıklamaya çalıştık"
 ---
 
 Daha önceki yazılarda BES te birikim dönemini değerlendirdik. Şimdi bakacağımız konuysa, emeklilik yaşımız geldiğinde bizi bekleyen seçenekler ver harcama yöntemleri.
@@ -25,9 +25,12 @@ Bu yöntemde fonlardan elde ettiğiniz gelirden %5 vergi kesintisi uygulandıkta
 
 Emeklilik şirketine, birikim dönemi sonunda "al ben bu kadar para biriktirdim, şimdi sen bununla ben ölene kadar her ay bana ne kadar para verebileceksen ver" demektir. Adından da anlaşılacağı gibi aylık maaş garantidir. Sizin fonlarınızın durumuna bakmaz. Ek olarak sigorta şirketinin maaşınızı her sene enflasyon oranında arttırması beklenir. Bu yöntem 2015 yılında getirildi. Kağıt üstünde planlanma yapılmış olsa da internet üzerinde çok fazla YGS teklifiyle karşılaşmak mümkün değil.
 
-Bu yöntem her sigorta yönteminde olduğu gibi gayet karışık yapılmış durumda. Detaylı simülasyonlarına [EGM](http://emeklilik.egm.org.tr/?sid=66) sayfasından ulaşabilirsiniz. EGM ödeme tiplerini 6ya ayırmış durumda. Benim açımda 2ye ayrılmış haldeler. Birikiminizin miras olarak kaldığı ve kalamadığı. Miras ile kasıt sadece toplu para değil, mirasçılarınıza da belirli bir süreyle maaş bağlanması gibi.
+Bu yöntem her sigorta yönteminde olduğu gibi gayet karışık yapılmış durumda. Detaylı simülasyonlarına [EGM](http://emeklilik.egm.org.tr/?sid=66) sayfasından ulaşabilirsiniz. EGM ödeme tiplerini 6ya ayırmış durumda. Benim açımda 2'ye ayrılmış haldeler. Birikiminizin miras olarak kaldığı ve kalamadığı. Miras ile kasıt sadece toplu para değil, mirasçılarınıza da belirli bir süreyle maaş bağlanması gibi.
 
-Bu yöntem benim içime sinmedi. Sigorta şirketlerine karşı bir güvensizliğim var. Mesela gelirin TÜFE oranında arttırılması bekleniyor ama sigorta şirketleri bazı şeyleri bahane edip ödeyemeyecek duruma düşerlerse ne olacağı belli değil. Bu kısmın devlet güvencesi yok. Unutmayalım 2008 krizinde Lehman Brothers dan sonra ilk batan şirketlerden bazıları sigorta şirketleriydi.
+Yıllık gelir sigortasını analiz ederken bakacağımız önemli bir oran, yıllık geri ödeme / ana para oranıdır. Yani 100.000TL niz için size aylık net 1.000Tl ödeniyorsa yıllık bu oran %12 dir. EGM nin sitesinden baktığımızda bu oranın farklı planlara göre değiştiği gözüküyor. En doğru plan tamamen sizin koşullarınıza bağlı. Eğer arkanızda bırakacağınız kişilerin maddi sıkınıtısı yoksa, miras kalmayan planlar seçip aylık gelirinizi yükseltebilirsiniz.
+
+Sigorta şirketlerinin bu maaşı garantiye alabilmesi için devletten 25-30 yıllık enflasyon korumalı tahvil üretme beklentisi var. Yani aslında şirketler sizden aldığı parayla devletten tahvil alıp bunu size ödemeyi hedefliyor.
+
 
 ## Programlı Geri Ödeme
 
@@ -63,7 +66,15 @@ Ve sonuç
 
 Bizim ideal portföy dağılımımız sadece %87.5 ihtimalle erimeden 30 yıl boyunca dayanıyor. ABD'deki dağılımlarda bu ihtimal %95. Yani bizim BESlerin performansı ABD örneği gibi yeterince güçlü değil. Bunun temel nedeni yüksek **FİGK** ler yani. Yüksek fon işletim gider kesintileri. Ek olarak da içinde bulunduğumuz ülkenin ekonomik koşulları
 
-Bu yüzden benim fikrim %4 oranının Türkiye'de gerçekçi olmadığı. Bizim için çok daha düşük bir oran lazım. %2 gibi. Seçeneğimiz ya risk alıp %4 oranına güvenmek (ABD ye kıyasla ek %7 lik bir risk) ya da Yıllık gelir sigortası ile düşük gelire razı olmak
+## Hangisi daha iyi ?
 
-Diğer yazıda bu ikisinin ortası bir yoldan bahsedeceğim ve bir Türkiye'ye özgü bir oran ortaya atacağım.
-Güvenli Geri Ödeme Yöntemi
+Benim fikrim, Programlı Geri Ödeme döneminde %4 oranının Türkiye'de gerçekçi olmadığı. Bizim için çok daha düşük bir oran lazım. %2 gibi.
+Yıllık gelir sigortasındaysa EGM nin sitesinde önerdiği YGS oranı %5.5 civarı. Yani 100.000TL niz varsa size mirassız önerilen ömür boyu gelir garantisi 450TL civarında oluyor. Bu biraz elma-armut karşılaştırması oluyor diye itiraz edebilirsiniz. Programlı geri ödeme durumunda birikiminiz sizden sonrakilere miras kalma şansı varken, gelir garantisinde bu miktarı talep ederseniz geliriniz oldukça düşüyor. Programlı geri ödemede piyasalar iyi gittiğinde portföyünüzün ve haliyle gelirinizin artma ihtimali varken, YGS de bu oran sabit olacak.
+
+Bunlar dışında toplu para alımı yapıp bu parayla gayrimenkul de satın alıp kira getirisi elde edebilirsiniz. Eğer getiri hedefiniz YGS oranınından düşükse bu da çok mantıklı bir yatırım olmayabilir. Yani arkanızda mirasçınız yoksa ve de 100.000TL toplu para alımı sonrası alcağınız evin kira getirisi 450TL den azsa YGS daha mantıklı olabilir. Ama evinizin olduğu muhit değerlenip kira getiriniz de artabilir.
+
+Eğer 56 yaşından sonra ihtimallerle uğraşamam diyorsanız Yıllık Gelir Sigortası sizin için daha mantıklı olabilir. Ama unutmayın ki bunu veren devlet değil bir sigorta şirketi. Sigorta şirketlerinin battığı çok sık olmasa da ara sıra görülmüş bir durum.
+
+YGS ile size yapılan ödemenin TÜFE oranında arttırılması bekleniyor ama sigorta şirketleri bazı şeyleri bahane edip ödeyemeyecek duruma düşerlerse ne olacağı belli değil. Bu kısmın devlet güvencesi yok. Unutmayalım 2008 krizinde Lehman Brothers dan sonra ilk batan şirketlerden bazıları sigorta şirketleriydi.
+
+Benim kişisel tercihim o yaşa geldiğimde belli olacak. Misal, emekliliğim gayrimenkul krizi dönemine denk gelirse toplu para alımını tercih edip bunla gayrimenkul almayı tercih ederim. Ya da borsa çöktüyse fonlarımı Borsa fonlarına çevirip emekliliği bir iki sene geciktirebilirim. Ya da gelecek tamamen belirsizse, YGS tercih edip aza kanaat ediğ kafamı rahat tutmak daha iyi olabilir. Bunların hepsini değerlendirip en iyi kararı verecek olanlar sizsiniz. Bankacıların pazarlama numaralarına kanıp aldanmayın. Bankalar kapitalizm gereği sizin emeklilik döneminizde onlar için hangi yöntem en karlıysa size onu satmaya çalışacaklardır.
