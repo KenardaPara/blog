@@ -8,7 +8,7 @@ slug: "bireysel-emeklilik-fonlarini-dengeleme"
 Warren Bufftet'ın 2017 yılındaki öğütlerinden biri hisse senetlerini düşükken alıp yüksekken satmak. Peki bizim gibi uzun
 vadeli, pasif yatırım yapan birini bu tavsiye ne derece bağlar. Sonuçta hisse alıp satmıyoruz. Amacımız paramızı düzenli şekilde fonlara yönlendirmek. Geçen yazıda verdiğimiz `%60GEH-%40GEK` örneğindeki gibi birikimler yapmak. Peki biz paramızla her ay sonunda fon alımlarını 60/40 şeklinde yapsak da portföyümüz böyle kalacak mı ? İşte Buffet'ın tavsiyesi ve bilinen bir başka teori burada devreye giriyor.
 
-Geçen yazıda sizden sakladığım bir grafik vardı. Simulasyon sonunçlarında "Allocation Drift" seçeneğine giderseniz bu grafiği göreceksiniz. Portföy3 için yani 60/40 olan portföyümüzün görüntüsü şöyle
+[Geçen yazıda]({{< ref "post/bes-dengeleme.md" >}})  sizden sakladığım bir grafik vardı. Simulasyon sonunçlarında "Allocation Drift" seçeneğine giderseniz bu grafiği göreceksiniz. Portföy3 için yani 60/40 olan portföyümüzün görüntüsü şöyle
 
 ![Allocation Drift](/img/rebalancing/alloc.png)
 

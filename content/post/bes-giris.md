@@ -27,4 +27,4 @@ Yatırım aracı olduğu için herhangi bir getiri garantisinden bahsedemeyiz. A
 
 2017 yılında devlet BES e otomatik katılımı getirdi. Bana kalırsa uzun vadede bunun dolaylı bir etkisi olacak. Emeklilik maaşları reel olarak düşecek. Yani devlet emeklilere enflasyonla birlikte zam yapmayacak ve bunun yerine arada ikramiye gibi şeylere gidecek. Ne zaman ki biz emeklilik maaşlarının enflasyondan arındırılmış değerlerinin çok düştüğünü fark edeceğiz, o zaman da 'Eee Bireysel Emekliliğin yok mu? Çıkmasaydın sistemden' denilecek. O zaman da çok geç kalınmış olacak.
 
-Bir sonraki yazıda, [Bireysel Emeklilik Sistemi nin eleştirisini](({{< ref "post/bes-giris.md" >}})) yapacağız.
+Bir sonraki yazıda, [Bireysel Emeklilik Sistemi nin eleştirisini]({{< ref "post/bes-sorunlari.md" >}}) yapacağız.
