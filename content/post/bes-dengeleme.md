@@ -14,7 +14,7 @@ vadeli, pasif yatırım yapan birini bu tavsiye ne derece bağlar. Sonuçta hiss
 
 Yıl | Borçlanma Fonu oranı| Hisse Senedi fonu oranı
 ----|-----|----
-2004| 40.00%|	60.00%http://www.mrmilyoner.com/yurhttps://www.kenardapara.com/post/bireysel-emeklilik-fonlar%C4%B1n%C4%B1-dengeleme/
+2004| 40.00%|	60.00%
 **2008**|	**32.65%**|	**67.35%**
 **2009**|	**52.48%**|	**47.52%**
 2010|	41.54%|	58.46%
