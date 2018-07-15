@@ -46,7 +46,7 @@ Portfolio 2	|	\$7,285
 Portfolio 3	|	\$10,007
 
 
-Yani geçen yazıda \$9344 kalan 60/40 portföyümüz güzel bir artış göstermiş. Anlaşılan **Dengeleme** kavramı işe yaramış. Bundan faydalanmak için yapmamız gereken tek şey BES şirketinizden zamanı geldiğinde var olan birikimleri istenilen dengeye getirmekten ibaret. Neredeyse tüm BES şirketleri bunu online olarak sağlıyor. Esas önemli soru ise bunu ne zaman yapmamız gerektiği. [Bununla ilgili Vanguard fonlarının güzel bir makalesi mevcut](https://www.vanguard.com/pdf/icrpr.pdf). Özetle 3 şekilde Dengeleme yapabilirsiniz:
+Yani geçen yazıda \$9344 kalan 60/40 portföyümüz güzel bir artış göstermiş. Anlaşılan **Dengeleme** kavramı işe yaramış. Bundan faydalanmak için yapmamız gereken tek şey BES şirketinizden zamanı geldiğinde var olan birikimleri istenilen dengeye getirmekten ibaret. Neredeyse tüm BES şirketleri bunu online olarak sağlıyor. Esas önemli soru ise bunu ne zaman yapmamız gerektiği. [Vanguard Rebalancing](https://www.vanguard.com/pdf/icrpr.pdf) makalesi bununla ilgili güzel bir kaynak. Özetle 3 şekilde Dengeleme yapabilirsiniz:
  * Periyodik olarak. 6 defa dağılım değiştirme hakkımız olduğunuzu düşünürseniz. En fazla 2 ayda 1.
  * Hedef dağılımdan çok şaşma durumunda. Yani portföyünüz 60/40 değil de 61/39 ya da 59/41 oranındaysa dokunmayıp, sadece 65/
  35  ya da 55/45 i geçerse müdahale etmek.
