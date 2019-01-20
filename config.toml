@@ -29,6 +29,13 @@ disqusShortname = "kenardapara"
   identifier = "tags"
   url = "/tags/"
 
+[[menu.main]]
+  name = "Simulasyon"
+  weight = 30
+  identifier = "simulasyon"
+  url = "/simulasyon/"
+
+
 # Add your own params here
 [params]
   author = "VaryemezAmca"
