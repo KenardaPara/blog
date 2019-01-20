@@ -8,13 +8,13 @@ slug: "bireysel-emeklilik-fonlarini-dengeleme"
 Warren Bufftet'ın 2017 yılındaki öğütlerinden biri hisse senetlerini düşükken alıp yüksekken satmak. Peki bizim gibi uzun
 vadeli, pasif yatırım yapan birini bu tavsiye ne derece bağlar. Sonuçta hisse alıp satmıyoruz. Amacımız paramızı düzenli şekilde fonlara yönlendirmek. Geçen yazıda verdiğimiz `%60GEH-%40GEK` örneğindeki gibi birikimler yapmak. Peki biz paramızla her ay sonunda fon alımlarını 60/40 şeklinde yapsak da portföyümüz böyle kalacak mı ? İşte Buffet'ın tavsiyesi ve bilinen bir başka teori burada devreye giriyor.
 
-Geçen yazıda sizden sakladığım bir grafik vardı. Simulasyon sonunçlarında "Allocation Drift" seçeneğine giderseniz bu grafiği göreceksiniz. Portföy3 için yani 60/40 olan portföyümüzün görüntüsü şöyle
+[Geçen yazıda]({{< ref "post/bes-dengeleme.md" >}})  sizden sakladığım bir grafik vardı. Simulasyon sonunçlarında "Allocation Drift" seçeneğine giderseniz bu grafiği göreceksiniz. Portföy3 için yani 60/40 olan portföyümüzün görüntüsü şöyle
 
 ![Allocation Drift](/img/rebalancing/alloc.png)
 
 Yıl | Borçlanma Fonu oranı| Hisse Senedi fonu oranı
 ----|-----|----
-2004| 40.00%|	60.00%http://www.mrmilyoner.com/yurhttps://www.kenardapara.com/post/bireysel-emeklilik-fonlar%C4%B1n%C4%B1-dengeleme/
+2004| 40.00%|	60.00%
 **2008**|	**32.65%**|	**67.35%**
 **2009**|	**52.48%**|	**47.52%**
 2010|	41.54%|	58.46%
@@ -46,7 +46,7 @@ Portfolio 2	|	\$7,285
 Portfolio 3	|	\$10,007
 
 
-Yani geçen yazıda \$9344 kalan 60/40 portföyümüz güzel bir artış göstermiş. Anlaşılan **Dengeleme** kavramı işe yaramış. Bundan faydalanmak için yapmamız gereken tek şey BES şirketinizden zamanı geldiğinde var olan birikimleri istenilen dengeye getirmekten ibaret. Neredeyse tüm BES şirketleri bunu online olarak sağlıyor. Esas önemli soru ise bunu ne zaman yapmamız gerektiği. [Bununla ilgili Vanguard fonlarının güzel bir makalesi mevcut](https://www.vanguard.com/pdf/icrpr.pdf). Özetle 3 şekilde Dengeleme yapabilirsiniz:
+Yani geçen yazıda \$9344 kalan 60/40 portföyümüz güzel bir artış göstermiş. Anlaşılan **Dengeleme** kavramı işe yaramış. Bundan faydalanmak için yapmamız gereken tek şey BES şirketinizden zamanı geldiğinde var olan birikimleri istenilen dengeye getirmekten ibaret. Neredeyse tüm BES şirketleri bunu online olarak sağlıyor. Esas önemli soru ise bunu ne zaman yapmamız gerektiği. [Vanguard Rebalancing](https://www.vanguard.com/pdf/icrpr.pdf) makalesi bununla ilgili güzel bir kaynak. Özetle 3 şekilde Dengeleme yapabilirsiniz:
  * Periyodik olarak. 6 defa dağılım değiştirme hakkımız olduğunuzu düşünürseniz. En fazla 2 ayda 1.
  * Hedef dağılımdan çok şaşma durumunda. Yani portföyünüz 60/40 değil de 61/39 ya da 59/41 oranındaysa dokunmayıp, sadece 65/
  35  ya da 55/45 i geçerse müdahale etmek.

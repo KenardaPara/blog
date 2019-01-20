@@ -67,6 +67,6 @@ Kısacası,
 
 `BES'in en büyük sorunu aşırı yüksek FİGK lerdir`
 
-Nasıl bileşik faiz için dünyanın 8. harikası dediysek, **FİGK**ler de BES şirketleri için böyledir. Çünkü **FİGK**in de etkisi bileşiktir ve bizden her gün kesilir.
+Nasıl [bileşik faiz için dünyanın 8. harikası]({{<ref "post/birikimler.md">}}) dediysek, **FİGK**ler de BES şirketleri için böyledir. Çünkü **FİGK**in de etkisi bileşiktir ve bizden her gün kesilir.
 
 İleriki yazıda bizim daha detaylı BES analizleri yapmamızı sağlayacak bir aracı [Portfolio Visualizer]({{< ref "post/portfolio-vis.md" >}}) ı tanıyacağız

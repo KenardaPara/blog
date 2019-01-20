@@ -26,4 +26,21 @@ Bireysel Emeklilikte getiriyi belirleyen en önemli şeylerden biri fon türleri
 * **Faso Fiso Fonlar** : Kalan fonların çoğu yüksek **FİGK** ile yatırımcıları sömürmeye çalışan fonlar. Bu fonların neredeyse hiç biri yüksek **FİGK** değerlerinden dolayı iyi performans gösterememiştir. Adında Esnek, Gevşek, Dinamik, Atak, Zıpçıktı, Akıllı gibi çeşitli sıfatlar olan bu fonlardan uzak durmakta fayda var.
 
 
+# Fon Türlerinin Karşılaştırılması
+Şimdi bakalım bu fon türlerimize 2005'ten beri her ay 50\$ yatırsaydık 2017 sonu itibariyle nasıl bir portföyümüz olurdu.
+En çok müşterisi olan şirketlerden biri Garanti Emeklilik olduğu için onların fonlarını karşılaştırma ölçütü olarak ele aldım.
+
+Portföy | Yatırım Aracı | 2017 Aralık değeri
+-----------|-----|----
+Portolio1 | Garanti Dis Borclanma | 9,953\$
+Portolio2 | Garanti Borclanma | 6.333\$
+Portolio3 | Garanti Hisse | 9.233\$
+Benchmark | Garanti Para Piyasası | 6800\$
+
+![Fon Turleri](/img/fon-turleri/fon-turleri1.png)
+
+
+13 yıl boyunca yılda 600\$ yatırarak toplam 7800\$ yatırmışız.
+Dış borçlanma en dalgasız ve en çok getiriyi elde etmiş. Hisse Senedi fonun getirisi yüksek olsa da çok fazla dalgalanmış durumda. Iç Borlanma ve Para Piyasası Fonları ise bize kaybettirmiş. Altın fonunu koymadım çünkü kendisi oldukça yeni bir fon. 2013 yılı itibariyle başlamış durumda.
+
 Sonraki yazı [bes için ideal fon dağılımı]({{< ref "post/bes-ideal-portfoy.md" >}}) ile alakalı
