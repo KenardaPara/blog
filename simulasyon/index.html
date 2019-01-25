@@ -19,10 +19,13 @@
         <!--Load the AJAX API-->
         <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 
+
+        <script type="text/javascript"  src="fonlar.js"></script>
         <script type="text/javascript"  src="papaparse.min.js"></script>
         <script type="text/javascript"  src="charts.js"></script>
         <script type="text/javascript"  src="ui.js"></script>
 
+        
         <style>
          .numberCircle {
              width: 120px;
@@ -61,28 +64,10 @@
              //             getGetiri(charts).then(printPromise("charts")).then(x => drawBarChart(x.map(k => getSample(k)), "oranlar")).catch(errorLogger);
 
              getBirikim(charts).then(a => drawLineChart(a, "portfoy_tl", "Birikimlerin Zaman Icindeki Degisimi")).catch(errorLogger)
-
-             
-
-             
-             /* graphData.besPortfoyTl.then(function(a){
-              *     drawLineChart(a, "portfoy_tl");}).catch(errorLogger);
-              * graphData.besPortfoyUSDTL.then(function(a){
-              *     drawLineChart(a, "portfoy_dolar_tl");}).catch(errorLogger);
-              * graphData.USDPortfoy.then(function(a){
-              *     drawLineChart(a, "dolar_tl");}).catch(errorLogger);
-              * graphData.besPortfoyEuroTL.then(function(a){
-              *     drawLineChart(a, "portfoy_euro_tl");}).catch(errorLogger);
-              * graphData.EUROPortfoy.then(function(a){
-              *     drawLineChart(a, "euro_tl");}).catch(errorLogger); */
-             
-             //Promise.all(TLData).then(x => drawChart(x, "portfoy_tumu")); 
-
          });
+
+         $(dcoument).ready(function(){initBankalar(new URLSearchParams(window.location.search))});
          
-         // Callback that creates and populates a data table,
-         // instantiates the pie chart, passes in the data and
-         // draws it.
         </script>
 
         <script>
@@ -131,6 +116,16 @@
 
                             
                         </div>
+
+                        <div class="form-row">
+
+                            <div class="form-group col">
+                                <label for="banka"  >Emeklilik Sirketiniz</label>
+                                <select name="banka" id="banka"> </select>
+                            </div>
+                        </div>
+
+
                         
                         <div class="form-row">
 
@@ -140,6 +135,9 @@
                                 <small id="devletHelper" class="form-text text-muted"> 2013 yilindan itibaren devlet katkiniz hangi devlet katki fonunda degerlendirilecek  </small>
                             </div>
                         </div>
+
+
+                        
                         <div id="fons">
                         </div>
                         
